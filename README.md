@@ -30,7 +30,7 @@ pip install kivy
 Run the app:
 python main.py
 
-ز
+
 🖥 Keyboard Shortcuts
 Key	Action
 0-9	Numbers
