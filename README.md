@@ -42,12 +42,6 @@ Esc	Clear
 C	Clear
 H	Show History
 
-📂 Project Structure
-calculator/
-├── main.py
-├── README.md
-
-
 📌 Notes
 You can add Dark/Light mode toggle
 Convert to Android APK using Buildozer
